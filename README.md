@@ -1,19 +1,16 @@
-# 📘 DSA Practice Repo
+# 📘 DSA Practice (Day-Wise)
 
-This repository contains my daily **Data Structures & Algorithms (DSA)** practice solutions.  
-I update this repo regularly with problems from topics like arrays, strings, linked lists, recursion, DP, graphs, and more.
-
----
-
-## 📅 What’s Inside?
-- Daily DSA problem solutions  
-- Clean and optimized code (C++ / C / other languages I learn)  
-- Topic-wise organized folders  
-- Multiple test cases for each question  
+This repository contains my **daily DSA practice**, uploaded day-wise as **Day1, Day2, Day3...**  
+Each folder includes the problem I solved on that day.
 
 ---
 
-## 🎯 Goals
-- Build strong problem-solving skills  
-- Improve coding efficiency  
-- Track my DSA learning journey  
+## 📅 Progress
+- Organized by **Day1**, **Day2**, **Day3**, ...
+- Each day contains:
+  - Code solutions
+
+---
+
+## 🎯 Goal
+Stay consistent and improve problem-solving skills through daily practice.
