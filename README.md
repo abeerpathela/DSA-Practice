@@ -14,3 +14,15 @@ Each folder includes the problem I solved on that day.
 
 ## 🎯 Goal
 Stay consistent and improve problem-solving skills through daily practice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+<!---LeetCode Topics End-->
