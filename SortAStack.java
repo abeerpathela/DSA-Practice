@@ -1,7 +1,7 @@
 // sort a stack 
 import java.util.Stack;
 import java.util.*;
-public class Main
+public class SortAStack
 {
     public static Stack<Integer> sortStack(Stack<Integer> stack){
         Stack<Integer>temp=new Stack<>();
