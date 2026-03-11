@@ -21,6 +21,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0039-combination-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0136-single-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
@@ -56,4 +57,5 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
