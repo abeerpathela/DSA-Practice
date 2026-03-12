@@ -26,6 +26,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/abeerpathela/DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Two Pointers
@@ -63,4 +64,5 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0039-combination-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
