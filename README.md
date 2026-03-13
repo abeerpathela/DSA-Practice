@@ -23,6 +23,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
+| [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
@@ -33,6 +34,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 ## Math
@@ -65,4 +67,8 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0040-combination-sum-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
