@@ -76,4 +76,9 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/abeerpathela/DSA-Practice/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/abeerpathela/DSA-Practice/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
