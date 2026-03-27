@@ -33,6 +33,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0485-max-consecutive-ones](https://github.com/abeerpathela/DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -85,6 +87,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0155-min-stack](https://github.com/abeerpathela/DSA-Practice/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +102,5 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 <!---LeetCode Topics End-->
