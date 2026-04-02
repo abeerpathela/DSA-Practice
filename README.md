@@ -25,6 +25,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0040-combination-sum-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/abeerpathela/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
@@ -87,6 +88,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/abeerpathela/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/abeerpathela/DSA-Practice/tree/main/0155-min-stack/) | Medium |
 | [0402-remove-k-digits](https://github.com/abeerpathela/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -106,6 +108,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/abeerpathela/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/abeerpathela/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
