@@ -110,10 +110,12 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/abeerpathela/DSA-Practice/tree/main/0155-min-stack/) | Medium |
+| [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/abeerpathela/DSA-Practice/tree/main/0901-online-stock-span/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/abeerpathela/DSA-Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 ## Monotonic Stack
@@ -150,4 +152,12 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/abeerpathela/DSA-Practice/tree/main/0901-online-stock-span/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
