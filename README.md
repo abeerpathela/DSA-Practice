@@ -41,6 +41,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0735-asteroid-collision](https://github.com/abeerpathela/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/abeerpathela/DSA-Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/abeerpathela/DSA-Practice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -73,6 +74,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/abeerpathela/DSA-Practice/tree/main/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,4 +182,5 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
