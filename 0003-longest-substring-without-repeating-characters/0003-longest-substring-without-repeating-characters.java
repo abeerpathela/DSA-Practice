@@ -1,23 +1,17 @@
 class Solution {
-     int maxLen=0;
-    public void generate(String s,int currentIndex){
-        if(currentIndex>=s.length()){
-            return;
-        }
+    public int lengthOfLongestSubstring(String s) {
+        int left=0; 
+        int maxLen=0;
         HashSet<Character>set=new HashSet<>();
-        for(int i=currentIndex; i<s.length(); i++){
-            char ch=s.charAt(i);
-            if(set.contains(ch)){
-                break;
+        for(int right=0; right<s.length(); right++){
+            char ch=s.charAt(right);
+            while(set.contains(ch)){
+                set.remove(s.charAt(left));
+                left++;
             }
             set.add(ch);
-            maxLen=Math.max(maxLen,set.size());
+            maxLen=Math.max(right-left+1,maxLen);
         }
-        generate(s,currentIndex+1);
-    }
-    public int lengthOfLongestSubstring(String s) {
-        maxLen=0;
-        generate(s,0);
         return maxLen;
     }
 }
