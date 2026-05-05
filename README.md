@@ -52,6 +52,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
@@ -173,6 +174,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
