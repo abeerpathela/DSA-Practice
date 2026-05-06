@@ -179,6 +179,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
