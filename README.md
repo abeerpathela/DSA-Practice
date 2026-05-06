@@ -55,6 +55,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0141-linked-list-cycle](https://github.com/abeerpathela/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -133,6 +134,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/abeerpathela/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/abeerpathela/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -180,6 +182,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/abeerpathela/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
