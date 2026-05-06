@@ -57,6 +57,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abeerpathela/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
@@ -117,6 +118,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0084-largest-rectangle-in-histogram](https://github.com/abeerpathela/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0155-min-stack](https://github.com/abeerpathela/DSA-Practice/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0402-remove-k-digits](https://github.com/abeerpathela/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -183,6 +185,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abeerpathela/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -209,4 +212,8 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abeerpathela/DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
