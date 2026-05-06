@@ -91,6 +91,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0402-remove-k-digits](https://github.com/abeerpathela/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/abeerpathela/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/abeerpathela/DSA-Practice/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/abeerpathela/DSA-Practice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -135,6 +136,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0874-walking-robot-simulation](https://github.com/abeerpathela/DSA-Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -197,4 +199,5 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0930-binary-subarrays-with-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
