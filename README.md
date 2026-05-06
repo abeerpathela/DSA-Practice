@@ -44,6 +44,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0930-binary-subarrays-with-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abeerpathela/DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/abeerpathela/DSA-Practice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -81,6 +82,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0930-binary-subarrays-with-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abeerpathela/DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -200,4 +202,5 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abeerpathela/DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
