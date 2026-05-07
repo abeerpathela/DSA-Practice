@@ -61,6 +61,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0234-palindrome-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +193,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0328-odd-even-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
