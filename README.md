@@ -232,4 +232,16 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0148-sort-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
