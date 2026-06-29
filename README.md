@@ -45,6 +45,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abeerpathela/DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abeerpathela/DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/abeerpathela/DSA-Practice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -101,6 +102,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0424-longest-repeating-character-replacement](https://github.com/abeerpathela/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/abeerpathela/DSA-Practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abeerpathela/DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/abeerpathela/DSA-Practice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
