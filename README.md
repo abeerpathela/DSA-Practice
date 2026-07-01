@@ -49,6 +49,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abeerpathela/DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abeerpathela/DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/abeerpathela/DSA-Practice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Two Pointers
@@ -190,6 +191,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0048-rotate-image](https://github.com/abeerpathela/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/abeerpathela/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [0704-binary-search](https://github.com/abeerpathela/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +264,13 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
