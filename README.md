@@ -35,6 +35,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0198-house-robber](https://github.com/abeerpathela/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0216-combination-sum-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/abeerpathela/DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -87,6 +88,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0198-house-robber](https://github.com/abeerpathela/DSA-Practice/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -217,6 +219,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/abeerpathela/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
