@@ -31,6 +31,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0084-largest-rectangle-in-histogram](https://github.com/abeerpathela/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abeerpathela/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
@@ -90,6 +91,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0022-generate-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abeerpathela/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/abeerpathela/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
