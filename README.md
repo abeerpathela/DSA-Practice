@@ -32,6 +32,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/abeerpathela/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0216-combination-sum-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
@@ -129,6 +130,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abeerpathela/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/abeerpathela/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/abeerpathela/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -232,6 +235,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -291,4 +295,8 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
