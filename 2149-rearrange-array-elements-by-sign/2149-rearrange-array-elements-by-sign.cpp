@@ -7,7 +7,7 @@ public:
         vector<int> result(nums.size());
 
         for(int num: nums){
-            if(num>=0){
+            if(num>0){
                 result[positiveIndex]=num;
                 positiveIndex+=2;
             }
