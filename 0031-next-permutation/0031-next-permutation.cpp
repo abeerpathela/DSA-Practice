@@ -3,6 +3,8 @@ public:
     void nextPermutation(vector<int>& nums) {
         int size=nums.size();
         int i=size-2;
+        
+        // vector<int> given=nums;
 
         while(i>=0 && nums[i]>=nums[i+1]){
             i--;
@@ -15,7 +17,6 @@ public:
             }
             swap(nums[j],nums[i]);
         }
-
         reverse(nums.begin()+i+1,nums.end());
     }
 };
