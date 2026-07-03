@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void swap(vector<int>& nums,int index1,int index2){
+    void swap(vector<int>& nums, int index1,int index2){
         int temp;
         temp=nums[index1];
         nums[index1]=nums[index2];
@@ -25,6 +25,6 @@ public:
                 mid++;
             }
         }
-
+        
     }
 };
