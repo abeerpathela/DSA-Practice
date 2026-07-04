@@ -294,12 +294,14 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -310,6 +312,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
@@ -325,4 +328,8 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
