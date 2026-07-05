@@ -4,9 +4,9 @@ public:
         int maxPro=0;
         int minPrice=INT_MAX;
 
-        for(int price: prices){
-            maxPro=max(maxPro,price-minPrice);
-            minPrice=min(minPrice,price);
+        for(int i=0; i<prices.size(); i++){
+            maxPro=max(maxPro,prices[i]-minPrice);
+            minPrice=min(minPrice,prices[i]);
         }
 
         return maxPro;
