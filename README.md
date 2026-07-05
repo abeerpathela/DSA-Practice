@@ -56,6 +56,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/abeerpathela/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abeerpathela/DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/abeerpathela/DSA-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abeerpathela/DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/abeerpathela/DSA-Practice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abeerpathela/DSA-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
