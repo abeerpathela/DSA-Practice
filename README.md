@@ -54,6 +54,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0930-binary-subarrays-with-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/abeerpathela/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abeerpathela/DSA-Practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abeerpathela/DSA-Practice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/abeerpathela/DSA-Practice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -106,6 +107,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0509-fibonacci-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/abeerpathela/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Prefix Sum
@@ -217,6 +219,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0054-spiral-matrix](https://github.com/abeerpathela/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/abeerpathela/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Data Stream
