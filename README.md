@@ -33,6 +33,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/abeerpathela/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abeerpathela/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -75,6 +76,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abeerpathela/DSA-Practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/abeerpathela/DSA-Practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -146,6 +148,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 ## Stack
