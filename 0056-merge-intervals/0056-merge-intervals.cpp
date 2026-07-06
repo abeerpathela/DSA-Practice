@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(),intervals.end());
+        sort(intervals.begin(),intervals.end()); 
 
         vector<vector<int>> ans;
         ans.push_back(intervals[0]);
@@ -18,6 +18,18 @@ public:
         return ans;
 
 
+        // Sort the intervals by their start time.
+        // Push the first interval into ans.
 
+        // For every next interval:
+        // Compare current interval's start (intervals[i][0]) with last merged interval's end (ans.back()[1]).
+
+        // If current start <= last end, they overlap → update the last end:
+
+        // ans.back()[1] = max(ans.back()[1], intervals[i][1]);
+        // Otherwise, there is no overlap → push the current interval into ans.
+
+
+        // Return ans
     }
 };
