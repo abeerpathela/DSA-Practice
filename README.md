@@ -27,6 +27,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0040-combination-sum-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/abeerpathela/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/abeerpathela/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/abeerpathela/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -105,6 +106,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/abeerpathela/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abeerpathela/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/abeerpathela/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -265,6 +267,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/abeerpathela/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/0493-reverse-pairs/) | Hard |
