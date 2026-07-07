@@ -77,6 +77,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abeerpathela/DSA-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/abeerpathela/DSA-Practice/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/abeerpathela/DSA-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0061-rotate-list/) | Medium |
@@ -139,6 +140,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abeerpathela/DSA-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/abeerpathela/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/abeerpathela/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/abeerpathela/DSA-Practice/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -371,4 +373,8 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/0493-reverse-pairs/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abeerpathela/DSA-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
