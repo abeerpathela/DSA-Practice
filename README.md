@@ -141,6 +141,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0020-valid-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abeerpathela/DSA-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/abeerpathela/DSA-Practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0402-remove-k-digits](https://github.com/abeerpathela/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/abeerpathela/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/abeerpathela/DSA-Practice/tree/main/0657-robot-return-to-origin/) | Easy |
