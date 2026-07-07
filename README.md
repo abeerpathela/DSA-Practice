@@ -93,6 +93,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/abeerpathela/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
