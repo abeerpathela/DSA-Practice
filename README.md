@@ -311,6 +311,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -325,6 +326,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -338,6 +340,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -378,6 +381,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
