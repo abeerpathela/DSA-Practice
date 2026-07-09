@@ -68,6 +68,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [2149-rearrange-array-elements-by-sign](https://github.com/abeerpathela/DSA-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -212,6 +213,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0930-binary-subarrays-with-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abeerpathela/DSA-Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -281,6 +283,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0704-binary-search](https://github.com/abeerpathela/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -358,6 +361,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0128-longest-consecutive-sequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +373,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
