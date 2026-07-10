@@ -69,6 +69,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -94,6 +95,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0876-middle-of-the-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abeerpathela/DSA-Practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0136-single-number/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +130,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/abeerpathela/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -169,6 +173,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0088-merge-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +246,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/abeerpathela/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +290,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -377,6 +384,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
