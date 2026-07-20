@@ -339,6 +339,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0124-binary-tree-maximum-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/abeerpathela/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -356,6 +357,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0124-binary-tree-maximum-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/abeerpathela/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Memoization
@@ -368,6 +370,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0100-same-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/abeerpathela/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -416,6 +419,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0124-binary-tree-maximum-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/abeerpathela/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Binary Indexed Tree
