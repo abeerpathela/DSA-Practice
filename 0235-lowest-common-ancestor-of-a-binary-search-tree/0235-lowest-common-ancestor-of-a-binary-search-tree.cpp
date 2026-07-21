@@ -11,6 +11,7 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        // Base Cases
         if(root==NULL){
             return NULL;
         }
@@ -20,19 +21,26 @@ public:
         if(root==q){
             return q;
         }
-        TreeNode* leftAnswer=lowestCommonAncestor(root->left,p,q);
-        TreeNode* rightAnswer=lowestCommonAncestor(root->right,p,q);
-        if(leftAnswer==NULL && rightAnswer==NULL){
-            return NULL;
+        // CASE-1: p and q are on the same side 
+        if( (p->val < root->val) && (q->val < root->val) ){
+            TreeNode* leftAnswer=lowestCommonAncestor(root->left,p,q);
+            if(leftAnswer!=NULL){
+                return leftAnswer;
+            }
         }
-        else if(leftAnswer!=NULL && rightAnswer==NULL){
-            return leftAnswer;
+        // CASE-2: p and q are on the right side 
+        if( (p->val > root->val) && (q->val > root->val) ){
+            TreeNode* rightAnswer=lowestCommonAncestor(root->right,p,q);
+            if(rightAnswer!=NULL){
+                return rightAnswer;
+            }
         }
-        else if(leftAnswer==NULL && rightAnswer!=NULL){
-            return rightAnswer;
-        }
-        else{
-            return root;
-        }
+        // CASE-3: p on the left side and q on the right side
+        // return root 
+
+        // CASE-4: p on the right side and q on the left side 
+        // return root
+
+        return root;
     }
 };
