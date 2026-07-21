@@ -24,8 +24,6 @@ public:
         // inorder traversal store in the array
         vector<int>ans;
         storeInOrder(root,ans); 
-        // kth smallest 
-        sort(ans.begin(),ans.end());
         return ans[k-1];
     }
 };
