@@ -355,6 +355,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +366,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0450-delete-node-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +388,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
