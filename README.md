@@ -37,6 +37,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abeerpathela/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0136-single-number/) | Easy |
@@ -305,6 +306,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/abeerpathela/DSA-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/0493-reverse-pairs/) | Hard |
@@ -338,6 +340,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0101-symmetric-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -352,6 +355,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -365,6 +369,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0101-symmetric-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
