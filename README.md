@@ -137,6 +137,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/abeerpathela/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/abeerpathela/DSA-Practice/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -358,6 +359,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +371,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +394,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,6 +463,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abeerpathela/DSA-Practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
