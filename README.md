@@ -360,6 +360,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -373,6 +374,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -397,6 +399,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
