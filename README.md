@@ -516,4 +516,8 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/abeerpathela/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
