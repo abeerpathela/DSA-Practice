@@ -120,6 +120,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0136-single-number/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/abeerpathela/DSA-Practice/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -303,6 +304,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/abeerpathela/DSA-Practice/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0493-reverse-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/abeerpathela/DSA-Practice/tree/main/0704-binary-search/) | Easy |
@@ -359,6 +361,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0145-binary-tree-postorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/abeerpathela/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/abeerpathela/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/abeerpathela/DSA-Practice/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -402,6 +405,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0145-binary-tree-postorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/abeerpathela/DSA-Practice/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/abeerpathela/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/abeerpathela/DSA-Practice/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
