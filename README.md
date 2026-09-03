@@ -356,6 +356,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -400,6 +401,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -427,6 +429,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0101-symmetric-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/abeerpathela/DSA-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/abeerpathela/DSA-Practice/tree/main/0547-number-of-provinces/) | Medium |
@@ -479,6 +482,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0100-same-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
