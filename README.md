@@ -55,6 +55,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0503-next-greater-element-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abeerpathela/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/abeerpathela/DSA-Practice/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/abeerpathela/DSA-Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/abeerpathela/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/abeerpathela/DSA-Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -147,6 +148,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abeerpathela/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/abeerpathela/DSA-Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
