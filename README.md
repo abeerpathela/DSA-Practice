@@ -53,6 +53,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0493-reverse-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abeerpathela/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/abeerpathela/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/abeerpathela/DSA-Practice/tree/main/0724-find-pivot-index/) | Easy |
@@ -111,6 +112,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0048-rotate-image](https://github.com/abeerpathela/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abeerpathela/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -147,6 +149,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abeerpathela/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/abeerpathela/DSA-Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -230,6 +233,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0424-longest-repeating-character-replacement](https://github.com/abeerpathela/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/abeerpathela/DSA-Practice/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abeerpathela/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abeerpathela/DSA-Practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/abeerpathela/DSA-Practice/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -537,4 +541,8 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abeerpathela/DSA-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
