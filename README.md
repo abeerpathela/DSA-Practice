@@ -49,6 +49,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0283-move-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/abeerpathela/DSA-Practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/abeerpathela/DSA-Practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -138,6 +139,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0198-house-robber](https://github.com/abeerpathela/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
@@ -189,6 +191,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0088-merge-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
@@ -270,6 +273,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/abeerpathela/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
