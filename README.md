@@ -67,6 +67,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0930-binary-subarrays-with-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abeerpathela/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1029-two-city-scheduling](https://github.com/abeerpathela/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
 | [1046-last-stone-weight](https://github.com/abeerpathela/DSA-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/abeerpathela/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -199,6 +200,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abeerpathela/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0630-course-schedule-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0630-course-schedule-iii/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/abeerpathela/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1029-two-city-scheduling](https://github.com/abeerpathela/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
@@ -284,6 +286,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abeerpathela/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0630-course-schedule-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0630-course-schedule-iii/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/abeerpathela/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1029-two-city-scheduling](https://github.com/abeerpathela/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -564,4 +567,12 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/abeerpathela/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+## Hungarian Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/abeerpathela/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
+## Successive Shortest Path Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1029-two-city-scheduling](https://github.com/abeerpathela/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
 <!---LeetCode Topics End-->
