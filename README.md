@@ -57,6 +57,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0503-next-greater-element-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abeerpathela/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0630-course-schedule-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0630-course-schedule-iii/) | Hard |
 | [0704-binary-search](https://github.com/abeerpathela/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/abeerpathela/DSA-Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/abeerpathela/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
@@ -194,6 +195,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0169-majority-element](https://github.com/abeerpathela/DSA-Practice/tree/main/0169-majority-element/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abeerpathela/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0630-course-schedule-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0630-course-schedule-iii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
@@ -277,6 +279,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0402-remove-k-digits](https://github.com/abeerpathela/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abeerpathela/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0630-course-schedule-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0630-course-schedule-iii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -463,6 +466,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0630-course-schedule-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0630-course-schedule-iii/) | Hard |
 | [1046-last-stone-weight](https://github.com/abeerpathela/DSA-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abeerpathela/DSA-Practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
