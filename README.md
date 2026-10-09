@@ -58,6 +58,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0523-continuous-subarray-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/abeerpathela/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0630-course-schedule-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0630-course-schedule-iii/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/abeerpathela/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0704-binary-search](https://github.com/abeerpathela/DSA-Practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/abeerpathela/DSA-Practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/abeerpathela/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
@@ -143,6 +144,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0322-coin-change](https://github.com/abeerpathela/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/abeerpathela/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/abeerpathela/DSA-Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/abeerpathela/DSA-Practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -196,6 +198,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0435-non-overlapping-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abeerpathela/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0630-course-schedule-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0630-course-schedule-iii/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/abeerpathela/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
@@ -280,6 +283,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0435-non-overlapping-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/abeerpathela/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0630-course-schedule-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0630-course-schedule-iii/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/abeerpathela/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -556,4 +560,8 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/abeerpathela/DSA-Practice/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
