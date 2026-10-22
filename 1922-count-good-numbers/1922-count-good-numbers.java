@@ -1,6 +1,5 @@
 class Solution {
-    static long mod=1000000007;
-
+    static int mod=1000000007;
     private long power(long x, long n){
         long result=1;
 
@@ -14,14 +13,14 @@ class Solution {
 
         return result;
     }
-    
+
     public int countGoodNumbers(long n) {
-          long evenCount= (n+1)/2;
-          long oddCount= n/2;
+        long evenCount=(n+1)/2;
+        long oddCount=n/2;
 
-           long part1=power(5,evenCount);
-           long part2=power(4,oddCount);
+        long part1=power(5,evenCount);
+        long part2=power(4,oddCount);
 
-          return (int)  ((part1*part2)%mod);      
+        return (int) ((part1*part2)%mod);
     }
 }
