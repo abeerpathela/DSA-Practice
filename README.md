@@ -33,6 +33,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0056-merge-intervals](https://github.com/abeerpathela/DSA-Practice/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abeerpathela/DSA-Practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/abeerpathela/DSA-Practice/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/abeerpathela/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/abeerpathela/DSA-Practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/abeerpathela/DSA-Practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -126,6 +127,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/abeerpathela/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/abeerpathela/DSA-Practice/tree/main/0222-count-complete-tree-nodes/) | Medium |
@@ -186,6 +188,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0022-generate-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
+| [0078-subsets](https://github.com/abeerpathela/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 ## Sorting
