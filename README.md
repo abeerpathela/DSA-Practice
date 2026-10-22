@@ -575,4 +575,8 @@ Stay consistent and improve problem-solving skills through daily practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1029-two-city-scheduling](https://github.com/abeerpathela/DSA-Practice/tree/main/1029-two-city-scheduling/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
