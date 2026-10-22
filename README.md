@@ -85,6 +85,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abeerpathela/DSA-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/abeerpathela/DSA-Practice/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
