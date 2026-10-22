@@ -120,6 +120,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0509-fibonacci-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/abeerpathela/DSA-Practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1922-count-good-numbers](https://github.com/abeerpathela/DSA-Practice/tree/main/1922-count-good-numbers/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abeerpathela/DSA-Practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abeerpathela/DSA-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -365,6 +366,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0021-merge-two-sorted-lists](https://github.com/abeerpathela/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/abeerpathela/DSA-Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/abeerpathela/DSA-Practice/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/abeerpathela/DSA-Practice/tree/main/1922-count-good-numbers/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
