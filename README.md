@@ -143,6 +143,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0085-maximal-rectangle](https://github.com/abeerpathela/DSA-Practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abeerpathela/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abeerpathela/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/abeerpathela/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/abeerpathela/DSA-Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/abeerpathela/DSA-Practice/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/abeerpathela/DSA-Practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -178,6 +179,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0022-generate-parentheses](https://github.com/abeerpathela/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abeerpathela/DSA-Practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/abeerpathela/DSA-Practice/tree/main/0058-length-of-last-word/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/abeerpathela/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0402-remove-k-digits](https://github.com/abeerpathela/DSA-Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/abeerpathela/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/abeerpathela/DSA-Practice/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -194,6 +196,7 @@ Stay consistent and improve problem-solving skills through daily practice.
 | [0040-combination-sum-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/abeerpathela/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/abeerpathela/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/abeerpathela/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/abeerpathela/DSA-Practice/tree/main/0216-combination-sum-iii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
